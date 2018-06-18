@@ -1,0 +1,25 @@
+.butt{
+    color: #fff;
+    background-color: #0c0c0c;
+     border-color: none !important; 
+    padding: 7px 67px;
+
+}
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: #10101070;
+    color: #ffffff; 
+}
+
+thead{ 
+    color: #fffbbf;
+}
+  
+.butt2{
+color: #fff;
+background-color: #656565;
+border-color: none !important;
+padding: 13px 67px;
+}

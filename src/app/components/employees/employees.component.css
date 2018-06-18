@@ -1,0 +1,40 @@
+
+.center{  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+    font-weight: bold;
+    margin-top: 35px;
+
+}
+.center h3{
+    color: #444;
+    font-size: 30px;
+    font-weight: bold
+}
+.butt{
+    color: #fff;
+    background-color: #0c0c0c;
+     border-color: none !important; 
+    padding: 7px 67px;
+
+}
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: #10101070;
+    color: #ffffff; 
+}
+
+thead{ 
+    color: #fffbbf;
+}
+ 
+.butt3{ 
+color: #fff;
+background-color: #c5b111;
+border-color: none !important;
+padding: 12px 67px;
+}
